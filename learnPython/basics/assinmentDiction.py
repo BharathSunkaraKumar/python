@@ -27,11 +27,11 @@ favoritePlaces = {
     "gus": "polos"
 }
 
-for name, place in favoritePlaces.items():
-    # print(f"{name.title()} favorite place is {place.title()}")
+# for name, place in favoritePlaces.items():
+#     # print(f"{name.title()} favorite place is {place.title()}")
 
 cities = {
-    "tirupati": 'place for peace and devotional'
+    "tirupati": 'place for peace and devotional',
     "bangalore": 'for jobs',
     "hyderabad" : 'Hyderabad is a city with a rich history and culture'
 }
